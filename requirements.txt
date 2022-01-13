@@ -1,5 +1,5 @@
 django
-
+whitenoise
 gunicorn
 beautifulsoup4
 requests
