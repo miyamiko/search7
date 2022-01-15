@@ -25,8 +25,8 @@ SECRET_KEY = 'u9s_=8ym)48mw4@1roit+r8sqrm)1q9d7k01-g%)&0n276cgt$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-#ALLOWED_HOSTS = ['localhost-sumoayui-2.paiza-user-free.cloud', '.herokuapp.com']
-ALLOWED_HOSTS =[]
+ALLOWED_HOSTS = ['localhost-sumoayui-2.paiza-user-free.cloud', '.herokuapp.com']
+#ALLOWED_HOSTS =[]
 
 # Application definition
 
